@@ -1,0 +1,28 @@
+[debug] [2024-11-08T11:30:16.326Z] ----------------------------------------------------------------------
+[debug] [2024-11-08T11:30:16.330Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\peter\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-11-08T11:30:16.330Z] CLI Version:   13.24.2
+[debug] [2024-11-08T11:30:16.331Z] Platform:      win32
+[debug] [2024-11-08T11:30:16.331Z] Node Version:  v20.17.0
+[debug] [2024-11-08T11:30:16.331Z] Time:          Fri Nov 08 2024 14:30:16 GMT+0300 (East Africa Time)
+[debug] [2024-11-08T11:30:16.332Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-11-08T11:30:16.344Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-11-08T11:30:16.344Z] > authorizing via signed-in user (muhiaalpha@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\peter\Desktop\capstone\ticket-booking-app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
